@@ -1,4 +1,4 @@
-## Recommender_system-movies
+## Movies Recommender System
 
 ### Business Case: Zee Recommender Systems
 
